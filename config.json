@@ -1,0 +1,15 @@
+{
+  "localaddr": ":8388",
+  "remoteaddr": "165.227.2.210:29900",
+  "key": "LIchan6433",
+  "crypt": "aes-128",
+  "mode": "fast2",
+  "mtu": 1350,
+  "sndwnd": 1024,
+  "rcvwnd": 1024,
+  "datashard": 10,
+  "parityshard": 3,
+  "dscp": 0,
+  "nocomp": false,
+  "quiet": false
+}
